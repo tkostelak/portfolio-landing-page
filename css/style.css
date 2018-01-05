@@ -29,3 +29,7 @@ body {
 .textFont {
   font-size: 19px;
 }
+
+.tmobile {
+  float: right;
+}
