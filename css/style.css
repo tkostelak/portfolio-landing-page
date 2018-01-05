@@ -41,3 +41,11 @@ body {
 .rumors {
   float: right;
 }
+
+.bg-info {
+  background-color: lightBlue;
+}
+
+.main-title {
+  font-color: red;
+}
