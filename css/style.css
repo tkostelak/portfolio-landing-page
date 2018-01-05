@@ -1,9 +1,9 @@
-.jumbotron{
+.jumbotron {
   background-color: lightcyan;
 }
 
-.mediumFont li{
-  font-size: 20px;
+.mediumFont {
+  font-size: 19px;
 }
 
 body {
@@ -16,4 +16,16 @@ body {
 
 .panel > .panel-body {
   background-color: lightcyan;
+}
+
+.wwu {
+  float: right;
+}
+
+.epicodus {
+  float: right;
+}
+
+.textFont {
+  font-size: 19px;
 }
